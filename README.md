@@ -1,2 +1,63 @@
-# local-library
- 
+# Project Title
+
+Farhad Firozitabar Local Library app with CRUD
+
+## Overview
+
+For testing purposes!
+Consider the fact that if it was a real project I would use a SQL database and implement the authentication in that! 
+
+# **Backend Setup**
+
+### 1. Navigate to the Backend Directory
+
+```bash
+cd backend
+```
+
+### 2. Install Backend Dependencies
+
+```bash
+npm install
+```
+
+### 3. Start the Backend Server
+
+```bash
+node app.js
+```
+
+# **Frontend Setup**
+
+### 1. Navigate to the Client Directory
+
+```bash
+cd client
+```
+
+### 2. Install Frontend Dependencies
+
+```bash
+npm install
+```
+
+### 3. Run the React App
+
+```bash
+npm start
+```
+
+## Project Structure
+
+Explanation of project structure.
+
+## Dependencies
+
+- Express
+- React
+- Bootstrap
+- Axios
+
+## Additional Notes
+
+Feel Free to message me at: farhad.firozitabar@outlook.com

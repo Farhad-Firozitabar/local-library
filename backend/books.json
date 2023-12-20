@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 2,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Literary Fiction"
+  },
+  {
+    "id": 3,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance"
+  },
+  {
+    "id": 4,
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian Fiction"
+  },
+  {
+    "id": 5,
+    "title": "Hamlet",
+    "author": "William Shakespeare",
+    "genre": "Tragic Play"
+  },
+  {
+    "id": 6,
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "genre": "Adventure Fiction"
+  },
+  {
+    "id": 7,
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "genre": "Sea Novel"
+  },
+  {
+    "id": 8,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Novella"
+  },
+  {
+    "id": 9,
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "genre": "Dystopian Fiction"
+  },
+  {
+    "id": 10,
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "genre": "Magical Realism"
+  }
+]
