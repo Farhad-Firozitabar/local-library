@@ -5,8 +5,9 @@ Farhad Firozitabar Local Library app with CRUD
 ## Overview
 
 For testing purposes!
-Consider the fact that if it was a real project I would use a SQL database and implement the authentication in that! 
-
+Consider the fact that if it was a real project I would use a SQL database and implement the authentication with that! 
+# to Run
+- install node.js on your local mechine
 # **Backend Setup**
 
 ### 1. Navigate to the Backend Directory
